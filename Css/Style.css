@@ -1,0 +1,139 @@
+body {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.head {
+  font-family: 'Grape Nuts', cursive;
+  color: #603601;
+  text-align: center;
+  font-size: 55pt;
+}
+
+.head1 {
+  font-family: 'Grape Nuts', cursive;
+  text-align: center;
+  color: #F5EFE3;
+  font-size: 35pt;
+}
+
+h1 {
+  font-family: 'Grape Nuts', cursive;
+}
+
+h2 {
+  color: #A6AA9C;
+  font-family: 'Grape Nuts', cursive;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Grape Nuts', cursive;
+  font-size: 20pt;
+}
+
+p {
+  font-family: 'Grape Nuts', cursive;
+  font-size: 15pt;
+}
+
+image {
+  align: center;
+}
+
+hr {
+  border-color: #603601;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.top-container {
+  background-color: #A6AA9C;
+  padding: 20px;
+}
+
+.middle-container {
+background-color: #F5EFE3;
+}
+
+.bottom-container {
+background-color: #603601;
+}
+
+.top-cloud {
+  position: absolute;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.btn {
+  font-family: 'Grape Nuts', cursive;
+  font-size: 20pt;
+  color: #A6AA9C;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.angela1 {
+  float: left;
+  margin-right: 30px;
+}
+
+.angela2 {
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-font {
+ color: #F5EFE3;
+ font-size: 1rem;
+}
+
+.footer-link {
+  font-family: 'Grape Nuts', cursive;
+  color: #F5EFE3;
+  margin: 0px 10px;
+}
+
+.contact-me {
+  width: 30%;
+  margin: auto;
+}
+
+.profile {
+  width: 30%;
+  margin: auto;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #F5EFE3;
+  font-size: 20px;
+  background: #A6AA9C;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6a6b68;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F5EFE3;
+}
